@@ -1,11 +1,15 @@
-#VERSIÓN 1.6
+VERSIÓN 1.6
 
 CAMBIO IMPORTANTE, MIGRADOS TODOS LOS LINKS AL SERVIDOR MEDIAFIRE
 
 SECCIÓN RETRO Y EMULADORES
+
 Emulador Game Boy Color
+
 Emulador PC Engine
+
 Emulador Sega Game Gear
 
 SECCIÓN PS2
+
 Super Mario 64 PORT
