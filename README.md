@@ -8,4 +8,4 @@ Store gratuita para PlayStation 3 con juegos PSX, PS2, PS3, PSP y DLC. También 
 
 VIDEO ÚLTIMA VERSIÓN 1.5
 
-[![Watch the video](https://img.youtube.com/vi/Ev5DOrWxu9s&t=9s/maxresdefault.jpg)](https://Ev5DOrWxu9s&t=9s)
+[![Watch the video](https://img.youtube.com/vi/Ev5DOrWxu9s&t=9s/maxresdefault.jpg)](https://youtu.be/Ev5DOrWxu9s&t=9s)
