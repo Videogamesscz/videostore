@@ -1,11 +1,25 @@
 ### VERSIÓN 1.8
 
-CAMBIO IMPORTANTE, MIGRADOS TODOS LOS LINKS AL SERVIDOR MEDIAFIRE
+SECCIÓN JUEGOS PS3
+JUEGOS FORMATO ISO
+- Ben 10 Galactic Racing
+- Bob Esponja y la venganza de Plankton
+- GODZILLA
+- Minecraft Story Mode
+- PACMAN and the Ghostly Adventures 2
+- Resident Evil 4 HD
+- Sonic the Hedgehog
+- Spider-man 3
+- Splatterhouse
+- The Smurfs 2
 
-SECCIÓN RETRO Y EMULADORES
-- Emulador Game Boy Color
-- Emulador PC Engine
-- Emulador Sega Game Gear
+SECCIÓN EMULADORES Y RETRO
+Sección Retrogames
+- Pack CPS
+- Pack Game Boy Color
+- Pack Game Boy Advance
+- Pack MAME
+- Pack Neo Geo Pocket
 
-SECCIÓN PS2
-- Super Mario 64 PORT
+NUEVA SECCIÓN 
+- Actualiza la Videostore a su última actualización disponible
