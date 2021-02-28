@@ -20,6 +20,12 @@ Sección Retrogames
 - Pack Game Boy Advance
 - Pack MAME
 - Pack Neo Geo Pocket
+- Pack Neo Geo
+Sección Retro
+- Alien vs. Predator
+- Killer Instinct
+- Marvel Super Heroes
+- Sunset Riders
 
 NUEVA SECCIÓN 
 - Actualiza la Videostore a su última actualización disponible
