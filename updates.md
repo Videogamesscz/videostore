@@ -1,3 +1,6 @@
+### VERSIÓN 1.9
+EN ACTUALIZACIÓN
+
 ### VERSIÓN 1.8
 
 SECCIÓN JUEGOS PS3
@@ -22,7 +25,7 @@ Sección Retrogames
 - Pack Neo Geo Pocket
 - Pack Neo Geo
 
-Sección Retro
+SECCIÓN RETRO
 - Alien vs. Predator
 - Killer Instinct
 - Marvel Super Heroes
