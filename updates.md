@@ -1,5 +1,42 @@
 ### VERSIÓN 1.9
-EN ACTUALIZACIÓN
+SECCIÓN JUEGOS PS2
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- Battle Stadium D.O.N. 
+- Castlevania Curse of Darkness 
+- Gran Turismo 4 
+- Metal Slug 6 
+- OutRun 2006 Coast2 Coast 
+- Pac-man World 3 
+- Spy vs. Spy 
+- Super Dragon Ball Z 
+
+SECCIÓN JUEGOS PS3
+JUEGOS PS3 ISO
+- El Chavo Kart
+JUEGOS NO HAN
+- 007 Legends
+- Fallout 3 GOTY
+- Fallout New Vegas
+- Modnation Racers
+
+SECCIÓN JUEGOS PSP
+- Angry Birds
+- Ape Academy
+- Metal Gear Acid
+- Metal Gear Acid 2
+- Micro Machines V4
+- Tetris
+
+SECCIÓN JUEGOS RETRO
+RETRO
+- Double Dragon ARCADE 
+- Final Fight SUPER NINTENDO
+- Final Fight 2 SUPER NINTENDO
+- Final Fight 3 SUPER NINTENDO
+- Hook ARCADE 
+
+SECCIÓN JUEGOS EMULADORES
+- Retrogames PACK PC Engine
 
 ### VERSIÓN 1.8
 
