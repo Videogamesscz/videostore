@@ -1,3 +1,43 @@
+### VERSIÓN 1.10
+SECCIÓN JUEGOS PS3
+JUEGOS NO HAN BY VIDEOGAMES SCZ
+- Call of Duty Black Ops II
+- Doom 3 BFG Edition
+- LEGO Star Wars Complete Edition
+- Need for Speed Rivals
+- Plants vs. Zombies Garden Warfare
+- Ride
+
+SECCIÓN JUEGOS PS2
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- Final Fantasy X
+- Jumanji
+- TOCA Race Driver 3
+- Virtua Tennis 2
+- Wacky Races Mad Motors
+
+SECCIÓN JUEGOS PS1
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- 007 Racing
+- Austin Powers Pinball
+- Astérix y Obélix contra el César
+- Blade
+- Bugs Bunny and Taz Time Busters
+- Croc the Legend of Gobbos
+- Men in Black The Game
+- Razor Freesytle Scooter
+- Spice World
+
+SECCIÓN APLICACIONES
+- PS3 HDD Unlock
+
+SECCIÓN HERRAMIENTAS
+- Extended Download
+
+SECCIÓN PERSONALIZA TU PS3
+- Añadida Subcategoría FUENTES
+- Añadidos nuevos THEMES
+
 ### VERSIÓN 1.9
 SECCIÓN JUEGOS PS2
 JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
