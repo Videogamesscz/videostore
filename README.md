@@ -7,6 +7,4 @@ Compatible con cualquier consola PS3 ya sea FAT, SLIM o SUPER SLIM con HEN. Para
 
 VIDEO YOUTUBE ÚLTIMA VERSIÓN 1.10
 
-Breve explicación de las últimas novedades incluidas y proceso para realizar la instalación.
-
 [![Watch the video](https://img.youtube.com/vi/alo44_dQ3FU/maxresdefault.jpg)](https://youtu.be/alo44_dQ3FU)
