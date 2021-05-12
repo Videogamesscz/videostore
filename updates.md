@@ -1,3 +1,45 @@
+### VERSIÓN 1.11
+SECCIÓN JUEGOS PS3
+JUEGOS NO HAN BY VIDEOGAMES SCZ
+- Army of TWO The Devils Cartel
+- God of War 3
+- Mercenaries 2 World in Flames
+- Rambo the Videogame
+- Sonic SEGA All Stars Racing
+
+JUEGOS PS3 ISO BY VIDEOGAMES SCZ
+- Dragon Ball Z Raging Blast
+- Dragon Ball Z Raging Blast 2
+- Dragon Ball Z Ultimate Tenkichi 
+
+SECCIÓN JUEGOS PS2
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- Conflict Vietnam
+- Crash Bandicoot The Wrath of Cortex
+- Crazy Taxi
+- Dragon Ball Z Tenkaichi 4 Beta X
+- Medal of Honor Vanguard
+- Sega Soccer Slam
+- Tekken 5
+- The Thing
+- Xena Warrior Princess
+
+SECCIÓN HERRAMIENTAS
+- Añadido RAP Universal PS2
+
+SECCIÓN EMULADORES
+JUEGOS RETRO
+- Captain Commando (MAME)
+- Dragon Ball Z Super Sonic Warriors (GBA)
+- Mortal Kombat (MAME)
+- Mortal Kombat II (MAME)
+
+RETROGAMES
+- Retrogames PACK Atari Lynx
+- Retrogames PACK Game Boy
+
+
+
 ### VERSIÓN 1.10
 SECCIÓN JUEGOS PS3
 JUEGOS NO HAN BY VIDEOGAMES SCZ
