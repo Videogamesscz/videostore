@@ -1,3 +1,51 @@
+### VERSIÓN 1.12
+SECCIÓN JUEGOS PS3
+JUEGOS NO HAN BY VIDEOGAMES SCZ
+- Battlefield 4 
+- Disney-Pixar Cars 2 
+- El padrino II 
+- Far Cry 4 
+- Fight Night Champion 
+- Ultimate Marvel vs. Capcom 3 
+JUEGOS PS3 ISO BY VIDEOGAMES SCZ
+- Capitán América Supersoldado 
+- FBA Next 
+- Sniper Elite 3 Ultimate Edition 
+
+SECCIÓN JUEGOS PS2
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- 18 Wheeler American Pro Trucker
+- Catwoman 
+- Marvel Ultimate Alliance 
+- Kingdom Hearts
+- Quake III Revolution
+- Ready 2 Rumble Boxing
+- Sonic Gems Collection 
+- The Suffering 
+
+SECCIÓN JUEGOS PS1
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- Air Hockey 
+- Alien Trilogy  
+- Harry Potter y la cámara secreta 
+- NBA JAM Tournament Edition 
+- Spider-man 
+- Spider-man 2 Enter Electro 
+
+SECCIÓN JUEGOS PSP
+- Megaman X Maverick Hunter 
+- Tekken 6 
+
+SECCIÓN APOYA A LA STORE
+- Enlace a canal de Youtube, suscribete!!
+
+SECCIÓN EMULADORES
+JUEGOS RETRO
+- Doom (PBR Doom)
+- Doom 2 (PBR Doom)
+- Igor - Objective Uikokahonia (DOSBOX)
+- Warcraft Orcs and Humans (DOSBOX)
+
 ### VERSIÓN 1.11
 SECCIÓN JUEGOS PS3
 JUEGOS NO HAN BY VIDEOGAMES SCZ
