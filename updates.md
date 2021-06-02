@@ -1,3 +1,31 @@
+### VERSIÓN 1.13
+SECCIÓN JUEGOS PS3
+JUEGOS NO HAN BY VIDEOGAMES SCZ
+- BioShock Infinite 
+- Burnout Paradise 
+- Crysis 2 
+- Crysis 3 Hunter Edition 
+- F1 2014 
+- Need for Speed Most Wanted 
+- Portal 2 
+- Resident Evil 6 
+- Soul Calibur IV 
+- Tekken Tag Tournament
+- Uncharted 3 La traición de Drake GOTY
+- W2K17 
+
+SECCIÓN JUEGOS PS1
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- Anna Kournikova Smash Courth Tennis
+- Metal Gear Solid
+- Twisted Metal III
+- Warcraft II The Dark Saga
+
+SECCIÓN HERRAMIENTAS
+- Descarga directa 4.88 HFW
+- Instalación HEN 4.88 desde la Store
+- Descarga directa 4.87 CFW
+
 ### VERSIÓN 1.12
 SECCIÓN JUEGOS PS3
 JUEGOS NO HAN BY VIDEOGAMES SCZ
