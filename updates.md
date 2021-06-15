@@ -10,7 +10,7 @@ JUEGOS NO HAN BY VIDEOGAMES SCZ
 - Portal 2 
 - Resident Evil 6 
 - Soul Calibur IV 
-- Tekken Tag Tournament
+- Tekken Tag Tournament 2
 - Uncharted 3 La traición de Drake GOTY
 - W2K17 
 
