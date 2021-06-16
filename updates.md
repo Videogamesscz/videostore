@@ -1,3 +1,47 @@
+### VERSIÓN 1.14
+SECCIÓN JUEGOS PS3
+JUEGOS NO HAN BY VIDEOGAMES SCZ
+- Assasin's Creed Rogue
+- Asura's Wrath
+- Gran Thef Auto V
+- LEGO MARVEL Avengers
+- Pro Evolution Soccer 2021 VR PATCH 7.09
+- The Last of US
+
+JUEGOS PS3 ISO BY VIDEOGAMES SCZ
+- Linterna Verde
+- Marvel Pinball
+- Plants vs. Zombies
+- Prison Break
+- Rapala Fishing Frenzy
+
+SECCIÓN JUEGOS PS2
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- Ape Escape 2
+- Onimusha Warlods
+- Shadow the Hedgehog
+- The King of Fighters 2000-2001
+
+SECCIÓN JUEGOS PS1
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- Actual Pool
+- Batman Forever
+- Bomberman Fantasy Race
+- Inspector Gadget Craz Maze
+- Metal Gear Solid
+- Resident Evil 1.5
+
+SECCIÓN RETRO
+- Añadida nueva sección PORTS
+- Cuphead Pre-release
+
+SECCIÓN PERSONALIZA TU PS3
+- Añadida nueva sección Logos de PSN
+- Añadidos nuevos Logos de HEN
+
+SECCIÓN HERRAMIENTAS
+- Activador PSN OFFLINE
+
 ### VERSIÓN 1.13
 SECCIÓN JUEGOS PS3
 JUEGOS NO HAN BY VIDEOGAMES SCZ
