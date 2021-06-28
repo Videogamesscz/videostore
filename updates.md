@@ -1,3 +1,53 @@
+### VERSIÓN 1.15
+SECCIÓN PRINCIPAL
+- Añadida opción ACTIVAR HEN en HFW 4.88 (ayudará a las personas sufren problemas al activar HEN)
+
+SECCIÓN JUEGOS PS3
+JUEGOS NO HAN BY VIDEOGAMES SCZ
+- Far Cry 3
+- Farming Simulator 15
+- FIFA 21
+- Gran Thef Auto IV
+- Metal Gear Solid V Ground Zeroes
+- Phineas and Ferb Across the 2nd Dimension
+- Rage rage
+- Resident Evil Revelations 2
+- Ridge Racer Unbounded
+- Top Spin 3
+- Virtua Tennis 2009 
+
+JUEGOS PS3 ISO BY VIDEOGAMES SCZ
+- Alicia Madness Returns 
+- Lollipop Chainsaw
+- Resident Evil Code Verónica X 
+- Resident Evil Zero 
+- The Elder Scrolls IV Oblivion
+
+SECCIÓN JUEGOS PS2
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- Monster House
+- Persona 3 FES
+- Peter Jackson's King Kong
+- Spider-man Web of Shadows
+
+SECCIÓN JUEGOS PS1
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- FIFA 98 Road to World Cup
+
+SECCIÓN RETRO
+- Pokémon Amarillo (GAME BOY COLOR)
+- Sengoku (NEO GEO)
+- Sengoku 2 (NEO GEO)
+- Soccer Brawl (NEO GEO)
+- Super Sidekicks (NEO GEO)
+- Super Sidekicks 2 (NEO GEO)
+
+SECCIÓN PORTS
+- Geometry Dash
+
+SECCIÓN PERSONALIZA TU PS3
+- Nueva SECCIÓN cambia el logo de la Videostore
+
 ### VERSIÓN 1.14
 SECCIÓN JUEGOS PS3
 JUEGOS NO HAN BY VIDEOGAMES SCZ
