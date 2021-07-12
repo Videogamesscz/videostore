@@ -1,3 +1,54 @@
+### VERSIÓN 1.16
+SECCIÓN JUEGOS PS3
+JUEGOS NO HAN BY VIDEOGAMES SCZ
+- Batman Arkham City
+- Ferrari Challenge
+- FIFA World Cup to Brazil 2014
+- God of War Collection I
+- Golden Axe Beast Rider
+- GTA San Andreas MOD (Si tienes el original deberás eliminarlo previamente)
+- Handball 17
+- Kung Fu Panda Showdown of Legendary
+
+JUEGOS PS3 ISO/HEN BY VIDEOGAMES SCZ
+- Back to the Future
+- Rango
+- Saw II
+- The Incredible Hulk
+
+SECCIÓN JUEGOS PS2
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- Art of Fighting Anthology
+- Auto Modellista
+- Darkwatch
+- Pac-man World Rally
+- Red Card 2003
+ Tenchu - La ira del cielo
+
+SECCIÓN JUEGOS PS1
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- ATV Mania
+- Casper
+- Gran Thef Auto 2
+- Klonoa Door to Phantomile
+- Woody Woodpecker Racing
+
+SECCIÓN RETRO
+- Contra ARCADE (MAME)
+- King of Fighters 2000, The (NEO GEO)
+- King of Fighters 2001, The (NEO GEO)
+- King of Fighters 2002, The (NEO GEO)
+- Penguin Brothers (MAME)
+- Silent Dragon (MAME)
+- Vendetta (MAME)
+- Waku Waku 7 (NEO GEO)
+
+SECCIÓN PORTS
+- Friday Night Funkin
+
+SECCIÓN  HERRAMIENTAS
+- Añadida Soccer Store 1.1
+
 ### VERSIÓN 1.15
 SECCIÓN PRINCIPAL
 - Añadida opción ACTIVAR HEN en HFW 4.88 (ayudará a las personas sufren problemas al activar HEN)
