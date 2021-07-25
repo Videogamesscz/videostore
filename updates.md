@@ -1,3 +1,54 @@
+### VERSIÓN 1.17
+MENÚ PRINCIPAL DE LA STORE
+- Añadido Aviso al usuario 
+- Añadida Sección MODS
+
+SECCIÓN JUEGOS PS3
+- Afro Samurai 
+- Battlefield Bad Company 
+- Call of Duty Advance Warfare
+- DiRT 3
+- God of War Ascension
+- inFamous
+- JoJo's Bizzare Adventure Eyes of Heaven
+- Killzone 3
+- Tales of Berseria 
+- Tekken 6
+
+JUEGOS PS3 ISO/HEN BY VIDEOGAMES SCZ
+- Devil May Cry 4 
+- El gato con botas 
+- The Amazing Spider-man 2 
+
+SECCIÓN MODS PS3
+- Añadido MODs GTA V
+- Añadido MODs Minecraft
+
+SECCIÓN JUEGOS PS2
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- Resident Evil 4 MOD 
+- Rule of Rose
+
+SECCIÓN JUEGOS PS1
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- Croc 2
+- Driver 2
+- Jersey Devil
+
+SECCIÓN JUEGOS PSP
+- Añadida sección PSP MINI con más de 200 juegos
+
+SECCIÓN RETRO
+- Bubble Bobble (MAME ARCADE)
+- Joe and Mac 2 Lost in the Tropic (SUPER NINTENDO)
+- Neo Bomberman (NEO GEO)
+
+SECCIÓN PERSONALIZA TU PS3
+- Añadida Sección Audio Coldboot
+
+-SECCIÓN HERRAMIENTAS
+- Añadido FIX para visualizar la Soccer Store
+
 ### VERSIÓN 1.16
 SECCIÓN JUEGOS PS3
 JUEGOS NO HAN BY VIDEOGAMES SCZ
