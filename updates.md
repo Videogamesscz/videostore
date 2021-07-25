@@ -28,6 +28,7 @@ SECCIÓN JUEGOS PS2
 JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
 - Resident Evil 4 MOD 
 - Resident Evil Dead Aim
+- Resident Evil Outbreak
 - Rocky Legends
 - Rule of Rose
 
