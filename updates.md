@@ -1,3 +1,74 @@
+### VERSIÓN 1.18
+MENÚ PRINCIPAL DE LA STORE
+- Se ha añadido la sección ISO, y se ha separado las ISOS de los PKG HEN PS3
+
+SECCIÓN JUEGOS PS3
+JUEGOS PS3 NO HAN BY VIDEOGAMES SCZ
+- Guitar Hero Aero Smith
+- NASCAR 15
+- Skate 2
+
+JUEGOS PS3 ISO BY VIDEOGAMES SCZ
+- FIFA Street 3
+- FIFA World Cup South África 2010
+- James Camaron Avatar The Game
+- JoJos Bizarre Adventure All Star Battle
+- Lluvia de hamburguesas
+- MXGP The Motocross Oficial Videogame
+- Planet 51
+- South Park - La vara de la verdad
+- TMNT Danger of the Ooze
+- Truck Racer
+- Turbo Super Stunt Squad
+- Vampire Resurrection
+
+SECCIÓN JUEGOS PS2
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- Ben 10 Protector of Earth
+- Club Football Madrid
+- FIFA 21 MOD
+- Legacy of Kain Soul Reaver 2
+- Samurai Shodown Anthology
+- Sonic Riders
+- Teen Titans
+
+SECCIÓN JUEGOS PS1
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- 007 El mañana nunca muere
+- 007 El mundo no es suficiente
+- Alundra
+- Digimon World 3
+- Final Fantasy VII
+- Harry Potter y la piedra filósofal
+- Looney Tunes Sheep Raider
+- Lost World, The - Jurassic Park
+- Mortal Kombat II
+- Parappa the Rapper
+- Theme Hospital
+- Tombi
+- Vigilante 8
+
+SECCIÓN JUEGOS PSP
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- Final Fantasy III
+- Metal Slug XX
+
+SECCIÓN RETRO
+- Pokémon Esmeralda (GAMEBOY ADVANCE)
+- Pokémon Rubí (GAMEBOY ADVANCE)
+- Pokémon Zafiro (GAMEBOY ADVANCE)
+- Toki (MAME)
+- Tumblepop (MAME)
+- Wild West Cowboys (MAME)
+- Wonder Boy (MAME)
+- X-men vs. Street Fighter (MAME)
+
+SECCIÓN PERSONALIZA TU PS3
+- Añadidos nuevos logos de HEN
+
+-SECCIÓN APLICACIONES
+- Gamepad Test
+
 ### VERSIÓN 1.17
 MENÚ PRINCIPAL DE LA STORE
 - Añadido Aviso al usuario 
