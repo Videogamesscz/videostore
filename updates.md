@@ -42,6 +42,7 @@ JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
 - Harry Potter y la piedra filósofal
 - Looney Tunes Sheep Raider
 - Lost World, The - Jurassic Park
+- MediEvil II
 - Mortal Kombat II
 - Parappa the Rapper
 - Theme Hospital
