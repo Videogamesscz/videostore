@@ -1,3 +1,5 @@
+### VERSIÓN 2.00
+
 ### VERSIÓN 1.18
 MENÚ PRINCIPAL DE LA STORE
 - Se ha añadido la sección ISO, y se ha separado las ISOS de los PKG HEN PS3
