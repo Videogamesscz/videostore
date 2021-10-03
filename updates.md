@@ -1,4 +1,63 @@
 ### VERSIÓN 2.00
+MENÚ PRINCIPAL DE LA STORE
+- Se ha añadido la sección FORMATO CARPETA en PS3
+
+SECCIÓN JUEGOS PS3
+JUEGOS PS3 CARPETA BY VIDEOGAMES SCZ
+- Dragon Ball Z Budokai HD Collection
+- Need for Speed Carbono
+- Tekken Hybrid
+- UFC Undisputed 3
+
+JUEGOS PS3 HEN BY VIDEOGAMES SCZ
+- F.E.A.R.
+- Just Dance 2021
+- X-Men Wolverine Origins
+
+JUEGOS PS3 NO HAN BY VIDEOGAMES SCZ
+- Actualizado eFootball 2022 a la última versión DATAPACK 4.02 (Bianca Moha)
+
+SECCIÓN JUEGOS PS2
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- Digimon World 4
+- Marvel Ultimate Alliance 2
+- Prince of Persia Sands of Time
+- Spartan Total Warrior
+- Splinter Cell Pandora Tomorrow
+- Twisted Metal Black
+- UFC Throwdown
+- Worms 3D
+
+SECCIÓN JUEGOS PS1
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- 3-2-1 Smurf
+- Ace Combat 3 Electroesphere
+- Akuji The Hertless
+- Clock Tower
+- Final Fantasy VIII
+- Marranos en guerra
+- Speed Racer
+- Test Drive 6
+- Tombi 2
+- V-Rally 2
+
+SECCIÓN JUEGOS PSP
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- Asphalt Urban GT 2
+- Loco Roco
+
+SECCIÓN APLICACIONES
+- Movistore (aplicación para ver películas de la Flixtore)
+
+SECCIÓN HERRAMIENTA
+- Añadida tienda películas Flixstore + FIX
+
+SECCIÓN PERSONALIZA TU PS3
+- Añadidos nuevos Coldboots
+- Añadidos nuevos Themes
+
+SECCIÓN PORTS
+- The Binding of Isaac Rebirth
 
 ### VERSIÓN 1.18
 MENÚ PRINCIPAL DE LA STORE
