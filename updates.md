@@ -49,7 +49,7 @@ JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
 SECCIÓN APLICACIONES
 - Movistore (aplicación para ver películas de la Flixtore)
 
-SECCIÓN HERRAMIENTA
+SECCIÓN HERRAMIENTAS
 - Añadida tienda películas Flixstore + FIX
 
 SECCIÓN PERSONALIZA TU PS3
