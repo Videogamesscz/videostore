@@ -1,4 +1,5 @@
-##YOU GAME STORE 1.1
+#YOU GAME STORE 1.1
+
 SECCIÓN PELICULAS
 Añadida nueva sección en películas WESTERN
 
