@@ -1,3 +1,47 @@
+### VERSIÓN 2.1
+SECCIÓN JUEGOS PS3
+JUEGOS PS3 CARPETA BY VIDEOGAMES SCZ
+- Batman Arkham Origins Blackgate
+- Ben 10 Ultimate Alien Cosmic Destruction
+- Borderlands
+- Cabelas Hunting Expeditions
+- Deadpool
+- Leisure Suit Larry® Box Office Bust
+- SOCOM U.S. Navy SEALs Confrontation
+
+JUEGOS PS3 NO HAN BY VIDEOGAMES SCZ
+- FIFA 2008
+- Pro Evolution Soccer 2013
+
+SECCIÓN JUEGOS PS2
+JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- Grand Theft Auto - Vice City Stories
+- Iron Man
+- Need for Speed Pro Street
+- Need for Speeed Underground
+- Spider-man
+- Spider-man 2
+- Spider-man 3
+- Ultimate Spider-man
+
+SECCIÓN JUEGOS PS1
+- Colin McRae Rallie
+- Megaman X6
+- Time Crisis II - Project Titan
+- Tomb Raider III
+- Tony Hawk's Skateboarding 2
+
+SECCIÓN APLICACIONES
+- PKGi 1.2.2
+
+SECCIÓN RETRO
+- Street Fighter 2 Champion Edition
+- Street Fighter 2 World
+- Street Fighter Alpha
+- Street Fighter Alpha 2
+- Street Fighter Alpha 3
+
+
 ### VERSIÓN 2.00
 MENÚ PRINCIPAL DE LA STORE
 - Se ha añadido la sección FORMATO CARPETA en PS3
