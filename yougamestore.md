@@ -1,3 +1,55 @@
+#YOU GAME STORE 1.2
+
+SECCIÓN JUEGOS EXCLUSIVOS
+PLAYSTATION 1
+- Action Man Destruction X
+- Batman - Gotham City Racer
+- Castrol Super Bike Racing
+- Doraemon 3 - Makai no Dungeon
+- Namco Museum Vol. 1
+- Tony Hawk's Skateboarding 2
+
+PLAYSTATION 2
+- Iron Man
+- Need For Speed Pro Street
+- Need for Speed Underground
+- Spider-man
+- Spider-man 2
+- Spider-man 3
+- Ultimate Spider-man
+
+PLAYSTATION 3 FORMATO CARPETA
+- Batman Arkham Origins Blackgate
+- Ben 10 Ultimate Alien Cosmic Destruction
+- Borderlands
+- Cabelas Hunting Expedition
+- Deadpool
+- Dragon Ball Z Budokai HD Collection
+- Leisure Suit Larry Box Office
+- Need for Speed Carbon
+- SOCOM U.S. Navy SEALs Confrontation
+- Tekken Hybrid
+- UFC Undispusted 3
+
+PLAYSTATION 3 NO HAN
+- Battlefield Bad Company 2
+- FIFA 2008
+- Pro Evolution Soccer 2013
+- Pro Evolution Soccer 2014
+- Pro Evolution Soccer 2016
+- UEFA Euro 2016 Winning Eleven
+
+SECCIÓN JUEGOS RETRO
+- Brutal Paws of Fury (SUPER NINTENDO)
+- Football Champion Edition (MAME ARCADE)
+- Fútbol Excitante (SUPER NINTENDO)
+- Hudsons Adventure Island I (MAME ARCADE)
+- Hudsons Adventure Island II (MAME ARCADE)
+- Hudsons Adventure Island III (MAME ARCADE)
+
+SECCIÓN PERSONALIZA TU PS3
+- Añadidos más de 1000 temas 
+
 #YOU GAME STORE 1.1
 
 SECCIÓN PELICULAS
