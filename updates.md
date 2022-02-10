@@ -1,3 +1,44 @@
+### VERSIÓN 2.2
+SECCIÓN JUEGOS PS3
+JUEGOS PS3 CARPETA BY VIDEOGAMES SCZ
+- Minecraft
+
+SECCIÓN JUEGOS PS1
+JUEGOS PS1 JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- Action Man Destruction X
+- Batman - Gotham City Racer
+- Bubsy 3D Furbitten Planet
+- Ehrgeiz
+- Castrol Super Bike Racing
+- Doraemon 3 - Makai no Dungeon
+- Megaman X5
+- Mummy, The
+- Namco Museum Vol. 1
+- Vampire Hunter D
+
+SECCIÓN JUEGOS PS2
+JUEGOS PS2 JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- PES 2022
+
+SECCIÓN HERRAMIENTAS
+- Añadido Multi fix 29 Stores
+
+SECCIÓN PERSONALIZA TU PS3
+- Añadido más de 1000 temas en Temas 2 by Devil 303
+
+SECCIÓN MODS PS3
+- Mortal Kombat Komplete Edition MOD
+
+SECCIÓN PORTS
+- Five Nights at Freddys 2
+- Five Nights at Freddys 3
+- Five Nights at Freddys 4
+
+SECCIÓN RETRO
+- Sonic. EXE
+- Super Mario Bros. R
+
+
 ### VERSIÓN 2.1
 SECCIÓN JUEGOS PS3
 JUEGOS PS3 CARPETA BY VIDEOGAMES SCZ
