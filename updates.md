@@ -37,6 +37,41 @@ SECCIÓN APLICACIONES
 SECCIÓN HERRAMIENTAS
 - Reparado link 15280 licencias
 
+### VERSIÓN 3.0
+JUEGOS PS3 NO HAN BY VIDEOGAMES SCZ
+- AFL Live
+- Dark Sector
+- Mortal Kombat IX Eternal Edition
+- Naruto Ultimate Ninja Storm Generations
+- Rockband 2
+- Sniper Elite V2
+
+SECCIÓN JUEGOS PS1
+JUEGOS PS1 JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- Alien Resurrection
+- Apocalypse
+- Batman y Robin
+- Blasto
+- Contra Legacy of War
+- Rayman Rush
+- Tomba!
+- Thrill Kill
+
+SECCIÓN APLICACIONES
+- Actualizada la aplicación Pkgi a la versión 1.2.4
+- Actualizada la aplicación Prepiso a la versión 1.33
+- Actualizada la aplicación Webman Mod a la versión 1.47.47
+
+SECCIÓN HERRAMIENTAS
+- Eliminados HFW antiguos y fix que siendo aplicados en versiones nuevas traían problemas...
+- Eliminadas herramintas innecesarias...
+
+SECCIÓN PORTS
+- Sonic 1 Strange Dream World
+- Super Mario Boom
+- Super Mario Unimaker
+- Undertale
+
 ### VERSIÓN 2.3
 - ELIMINADA LA OPCIÓN DE ACTIVAR HEN DESDE LA STORE (ASÍ PARA EVITAR PROBLEMAS CON OTRAS VERSIONES DE HEN)
 - ELIMINADA SECCIÓN THEMES DEVIL303 (SERVIDOR CAÍDO)
