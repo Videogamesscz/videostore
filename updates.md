@@ -1,3 +1,42 @@
+### VERSIÓN 4.0
+JUEGOS PS3 NO HAN BY VIDEOGAMES SCZ
+- Armored Core Verdict Day
+- Uncharted 2 El rey de los ladrones
+- Unreal Tournament 3
+
+JUEGOS PS3 ISO BY VIDEOGAMES SCZ
+- Afro Samurai
+- Pure Football
+- Dragon Ball Z Budokai HD Collection
+- Dragon Ball Z Raging Blast 2
+- Painkiller Hell And Damnation
+
+SECCIÓN JUEGOS PS1
+JUEGOS PS1 JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- Animaniacs - Ten Pin Alley
+- Barbie Explorer
+- Bust-A-Move 4
+- C3 Racing Car Constructions Championship
+- Chrono Cross
+- Frogger 2
+- Killer Loop
+- NASCAR Thunder 2003
+- Mortal Kombat Mythologies Sub-zero
+- Necronomicon - The dawning of darkness
+- Puma Street Soccer
+- Resident Evil Directors Cut (Español)
+- Resident Evil 3 Nemesis (Español)
+
+SECCIÓN JUEGOS PS2
+JUEGOS PS2 JUEGOS CONVERTIDOS BY VIDEOGAMES SCZ
+- PES 2026 by Infinity
+
+SECCIÓN APLICACIONES
+- Actualizada la aplicación WebmanMod 1.47.48n
+
+SECCIÓN HERRAMIENTAS
+- Reparado link 15280 licencias
+
 ### VERSIÓN 2.3
 - ELIMINADA LA OPCIÓN DE ACTIVAR HEN DESDE LA STORE (ASÍ PARA EVITAR PROBLEMAS CON OTRAS VERSIONES DE HEN)
 - ELIMINADA SECCIÓN THEMES DEVIL303 (SERVIDOR CAÍDO)
